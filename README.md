@@ -21,9 +21,9 @@ A local-first homework & reward manager for primary school kids: parents plan ta
 
 | 孩子端 · 今日任务 Child · Tasks | 孩子端 · 奖励站 Child · Rewards |
 | :-: | :-: |
-| ![孩子端 · 今日任务](screenshots/child-tasks.png) | ![孩子端 · 奖励站](screenshots/child-redeem.png) |
+| ![孩子端 · 今日任务](https://raw.githubusercontent.com/ericwu369/Student_Homework_Planner/main/screenshots/child-tasks.png) | ![孩子端 · 奖励站](https://raw.githubusercontent.com/ericwu369/Student_Homework_Planner/main/screenshots/child-redeem.png) |
 | 家长端 · 实时看板 Parent · Board | 家长端 · 统计报表 Parent · Stats |
-| ![家长端 · 实时看板](screenshots/parent-board.png) | ![家长端 · 统计报表](screenshots/parent-stats.png) |
+| ![家长端 · 实时看板](https://raw.githubusercontent.com/ericwu369/Student_Homework_Planner/main/screenshots/parent-board.png) | ![家长端 · 统计报表](https://raw.githubusercontent.com/ericwu369/Student_Homework_Planner/main/screenshots/parent-stats.png) |
 
 ## 技术栈 Tech Stack
 
