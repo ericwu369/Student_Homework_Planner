@@ -17,6 +17,14 @@ A local-first homework & reward manager for primary school kids: parents plan ta
 - 🎯 今日任务打卡，完成时有动画庆祝 · Daily task check-in with celebration animation
 - 🎁 奖励站：提交兑换申请、查看申请历史 · Redeem rewards, view request history
 
+## 界面预览 Screenshots
+
+| 孩子端 · 今日任务 Child · Tasks | 孩子端 · 奖励站 Child · Rewards |
+| :-: | :-: |
+| ![孩子端 · 今日任务](screenshots/child-tasks.png) | ![孩子端 · 奖励站](screenshots/child-redeem.png) |
+| 家长端 · 实时看板 Parent · Board | 家长端 · 统计报表 Parent · Stats |
+| ![家长端 · 实时看板](screenshots/parent-board.png) | ![家长端 · 统计报表](screenshots/parent-stats.png) |
+
 ## 技术栈 Tech Stack
 
 React 18 + Vite · Express · better-sqlite3 · WebSocket 实时同步 · 无外部服务
