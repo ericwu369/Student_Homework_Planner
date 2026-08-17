@@ -1,0 +1,39 @@
+:root {
+  --font: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", system-ui, -apple-system, sans-serif;
+
+  /* 孩子端（温暖天空风） */
+  --child-bg-top: #cdeaff;
+  --child-bg-bottom: #fff3dd;
+  --child-card: #ffffff;
+  --child-ink: #374151;
+  --child-ink-soft: #93a1b4;
+
+  /* 宝可梦点缀色 */
+  --bolt: #ffd60a;
+  --bolt-deep: #f6a700;
+  --pokeball-red: #ff5252;
+
+  /* 学科色 */
+  --subj-语文: #ff6f7e;
+  --subj-数学: #4f8ff7;
+  --subj-英语: #31c48d;
+  --subj-课外: #f59e0b;
+
+  --success: #2ecc71;
+  --danger: #ef4444;
+
+  --radius: 18px;
+  --radius-sm: 12px;
+  --shadow: 0 6px 18px rgba(66, 90, 140, 0.12);
+  --shadow-big: 0 16px 40px rgba(66, 90, 140, 0.18);
+
+  /* 家长端（清爽办公风） */
+  --parent-bg: #f3f5f9;
+  --parent-card: #ffffff;
+  --parent-ink: #243244;
+  --parent-ink-soft: #71809a;
+  --parent-accent: #4f8ff7;
+  --parent-accent-deep: #2f6fe0;
+  --parent-border: #e7ebf3;
+  --parent-page-w: 1180px;
+}
